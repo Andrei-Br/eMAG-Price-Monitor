@@ -93,10 +93,7 @@ def writeExcel():
             last_row.border = Border(top=thin, left=thin, right=thin,
                                      bottom=double)
 
-
     wb.save(filename="eMAG Prices.xlsx")
-    print('Success')
-    print(sheet.max_row)
 
 if __name__ == '__main__':
     writeExcel()
