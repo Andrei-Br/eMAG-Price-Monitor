@@ -22,5 +22,5 @@ In the dictionary "links", the key is a short name of the product and the value 
 
 ### Step 3. Run OutputPrice.py everytime you want to scrape the prices of the products in the Excel file. 
 
-# Output Example
+# Output Sampe
 ![OutputPrice](https://user-images.githubusercontent.com/48626600/64804297-39eb2300-d597-11e9-87e4-9dc8083be77e.PNG)
